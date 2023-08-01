@@ -12,3 +12,10 @@
     padding-bottom: 1em;
     background-color: #553592;
 }
+
+header {
+    font-size: 30px;
+    color: #CBC3E3;
+    float: left;
+    padding-left: 2em;
+}
