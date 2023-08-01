@@ -33,3 +33,9 @@ nav > a > button {
     border-radius: 1mm;
     font-size: 20px;
 }
+
+nav > a > button:hover {
+    color: #ffffff;
+    font-weight: 500;
+    background-color: #553592;
+}
