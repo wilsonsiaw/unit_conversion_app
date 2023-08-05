@@ -39,3 +39,8 @@ nav > a > button:hover {
     font-weight: 500;
     background-color: #553592;
 }
+
+#all-conversion-sections {
+    display: grid;
+    justify-content: center;
+}
