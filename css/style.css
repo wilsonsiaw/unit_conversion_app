@@ -44,3 +44,13 @@ nav > a > button:hover {
     display: grid;
     justify-content: center;
 }
+
+figure {
+    float: left;
+    justify-self: auto;
+    width: 200px;
+}
+
+ing {
+    width: 200px;
+}
