@@ -40,6 +40,8 @@ nav > a > button:hover {
     background-color: #553592;
 }
 
+
+/* Style the conversion sections */
 #all-conversion-sections {
     display: grid;
     justify-content: center;
@@ -74,3 +76,5 @@ button {
 button:hover {
     cursor: pointer;
 }
+
+/* Style the calculator panels */
