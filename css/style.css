@@ -51,6 +51,12 @@ figure {
     width: 200px;
 }
 
-ing {
+img {
     width: 200px;
+}
+
+figcaption {
+    color: #000000;
+    font-size: 17px;
+    text-align: center;
 }
