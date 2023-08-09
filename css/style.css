@@ -107,3 +107,18 @@ legend {
     font-weight: bolder;
 }
 
+/* Style the floating home button */
+#go-home {
+    width: 40px;
+    height: 40px;
+    border-radius: 100%;
+    background-color: cyan;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+#go-home img {
+    width: 30px;
+}
