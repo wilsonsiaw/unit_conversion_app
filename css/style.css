@@ -89,3 +89,15 @@ button:hover {
     margin-top: 25px;
     display: flex;
 }
+
+#tmp {
+    border-top-color: green;
+}
+
+#wgt {
+    border-top-color: coral;
+}
+
+#dst {
+    border-top-color: cyan;
+}
