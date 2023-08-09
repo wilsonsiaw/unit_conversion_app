@@ -101,3 +101,8 @@ button:hover {
 #dst {
     border-top-color: cyan;
 }
+
+legend {
+    font-size: 30px;
+    font-weight: bolder;
+}
