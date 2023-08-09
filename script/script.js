@@ -1,5 +1,4 @@
 function temperature() {
-    
     let celsius = document.getElementById("c").value;
 
     let fahrenheit = (celsius * 9/5) + 32;
@@ -16,10 +15,9 @@ function weight() {
 }
 
 function distance() {
-    let kilometers = document.getElementById("km");
+    let kilometers = document.getElementById("km").value;
 
     let miles = kilometers * 0.62137;
 
-    document.getElementById("m") = miles;
+    document.getElementById("m").value = miles;
 }
-
