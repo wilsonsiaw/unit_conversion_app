@@ -74,3 +74,18 @@ button {
 button:hover {
     cursor: pointer;
 }
+
+/* Style the calculator panels */
+#tmp,
+#wgt,
+#dst {
+    border-top-style: solid;
+    background-color: white;
+    border-top-width: 20px;
+    width: 600px;
+    height: 400px;
+    border-radius: 10px;
+    margin-bottom: 25px;
+    margin-top: 25px;
+    display: flex;
+}
