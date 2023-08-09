@@ -95,6 +95,7 @@ button:hover {
     margin-bottom: 25px;
     margin-top: 25px;
     display: flex;
+    align-items: center;
 }
 
 #tmp {
