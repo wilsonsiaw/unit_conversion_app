@@ -122,3 +122,8 @@ legend {
 #go-home img {
     width: 30px;
 }
+
+footer {
+    background-color: lightpink;
+    margin-top: 20px;
+}
